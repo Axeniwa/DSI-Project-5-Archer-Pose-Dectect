@@ -2,7 +2,9 @@
 
 The idea is to collect coordinates for each body parts of a master archer shooting an arrow, so as to train a machine learning model to determine a range of correct movements. Lastly implementing the model on a real time smart phone app, to correct shooting posture of the user.
 
-Wading through a swamp of frustration of trying out numerous scripts, I finally found a pose detect package that worked on my video, and returned a set of body part coordinates. I did not have enough time to progress beyond that point.
+Wading through a swamp of frustration of getting things to work (A2J,tensorflow js posenet, detectron2,keras,pytorch,wechat projects), I finally found a pose detect package that worked on my video, and returned a set of body part coordinates. I would like to thank the author of that script, whose content I can longer find.
+
+I did not have enough time to progress beyond this point.
 
 
 ![image](https://user-images.githubusercontent.com/38799777/167057465-58238eb2-b958-4df7-8e38-6cc34c8de2ba.png)
